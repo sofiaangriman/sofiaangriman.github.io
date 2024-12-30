@@ -1,0 +1,11 @@
+menu:
+- {name: 'CV', url: '/cv'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Contact', url: '/contact'}
+
+social:
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=oaf_JjkAAAAJ'}
+- {icon: "orcid", link: "https://orcid.org/0000-0003-2390-2800"}
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Sofia-Angriman'}
+- {icon: 'twitter', link: 'https://x.com/sofiaangriman'}
+- {icon: 'github', link: 'https://github.com/sofiaangriman'}

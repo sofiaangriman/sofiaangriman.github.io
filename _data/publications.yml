@@ -1,0 +1,91 @@
+index:
+
+# 09
+  - {
+    name: "Active grid turbulence anomalies through the lens of physics informed neural networks", 
+    authors: "<b>S. Angriman</b>, S. E. Smith, P. Clark di Leoni, P. J. Cobelli, P. D. Mininni & M. Obligado",
+    info: "Results in Engineering 24, 103265 (2024)",
+    url: "https://doi.org/10.1016/j.rineng.2024.103265",
+    fulltext: "https://arxiv.org/pdf/2409.03919",
+    abstract: "Active grids operated with random protocols are a standard way to generate large Reynolds number turbulence in wind and water tunnels. But anomalies in the decay and third-order scaling of active-grid turbulence have been reported. We combine Laser Doppler Velocimetry and hot-wire anemometry measurements in a wind tunnel, with machine learning techniques and numerical simulations, to gain further understanding on the reasons behind these anomalies. Numerical simulations that incorporate the statistical anomalies observed in the experimental velocity field near the active grid can reproduce the experimental anomalies observed later in the decay. The results indicate that anomalies in experiments near the active grid introduce correlations in the flow that can persist for long times."
+}
+
+# 08
+  - {
+    name: "Turbulence Unsteadiness Drives Extreme Clustering",
+    authors: "F. Zapata, <b>S. Angriman</b>, A. Ferran, P. J. Cobelli, M. Obligado & P. D. Mininni",
+    info: "Phys. Rev. Lett. 132, 104005 (2024)",
+    url: "https://doi.org/10.1103/PhysRevLett.132.104005",
+    fulltext: "https://arxiv.org/pdf/2402.15015",
+    abstract: "We show that the unsteadiness of turbulence has a drastic effect on turbulence parameters and in particle cluster formation. To this end we use direct numerical simulations of particle laden flows with a steady forcing that generates an unsteady large-scale flow. Particle clustering correlates with the instantaneous Taylor-based flow Reynolds number, and anticorrelates with its instantaneous turbulent energy dissipation constant. A dimensional argument for these correlations is presented. In natural flows, unsteadiness can result in extreme particle clustering, which is stronger than the clustering expected from averaged inertial turbulence effects."
+}
+
+# 07
+  - {
+    name: "Assimilation of statistical data into turbulent flows using physics-informed neural networks",
+    authors: "<b>S. Angriman</b>, P. J. Cobelli, P. D. Mininni, M. Obligado & P. Clark di Leoni", 
+    info: "Eur. Phys. J. E 46, 13 (2023)",
+    url: "https://doi.org/10.1140/epje/s10189-023-00268-9",
+    fulltext: "../publications/07.pdf",
+    abstract: "When modeling turbulent flows, it is often the case that information on the forcing terms or the boundary conditions is either not available or overly complicated and expensive to implement. Instead, some flow features, such as the mean velocity profile or its statistical moments, may be accessible through experiments or observations. We present a method based on physics-informed neural networks to assimilate a given set of conditions into turbulent states. The physics-informed method helps the final state approximate a valid flow. We show examples of different statistical conditions that can be used to prepare states, motivated by experimental and atmospheric problems. Lastly, we show two ways of scaling the resolution of the prepared states. One is through the use of multiple and parallel neural networks. The other uses nudging, a synchronization-based data assimilation technique that leverages the power of specialized numerical solvers."
+}
+
+# 06
+  - {
+    name: "Physico-chemical elucidation of the mechanism involved in optical lithography: Micro-fabrication of 2D and 3D platforms",
+    authors: "N. Philipp, <b>S. Angriman</b>, S. Burne, et al.",
+    info: "J. Appl. Phys., 132, 183104 (2022)",
+    url: "https://doi.org/10.1063/5.0123862",
+    fulltext: "",
+    abstract: "Direct laser lithography has attracted much attention as a convenient micro-fabrication method to develop rapid, free-form, and low-cost microstructures. In this work, different microdevices were fabricated using a home-made two-photon excitation microscope and a commercial negative UV photoresin. The mechanism involved during the fabrication of the devices as well as the effects of the irradiation intensity and removal time on micro-patterns was investigated by optical microscopy. For the characterization of the microstructures, scanning electron microscopy, atomic force microscopy, Nuclear Magnetic Resonance (1H-NMR), and Fourier transform infrared spectroscopy were used. High-resolution optical characterization shows an enormous uniformity and high reproducibility of fabricated platforms in two and three dimensions. These results prompted us to propose a different mechanism not compatible with a polymerization reaction as the triggering mechanism for the interaction between light and the photoresin. We demonstrate the coexistence of an allylic photo-induced reaction with a photo-induced polymerization effect during the fabrication process. We studied the influence of these mechanisms by fabricating micro-patterns in two conditions, with and without the presence of a polymerization initiator -azobisisobutyronitrile (AIBN)-, which boots the polymerization reaction. Even though the two mechanisms are present during the fabrication process, the polymerization is dominant in the presence of a photo-initiator as AIBN. Finally, we discuss the applications of our microdevices as suitable platforms for industry and biomedical applications."
+}
+
+# 05
+  - {
+    name: "Clustering in laboratory and numerical turbulent swirling flows",
+    authors: "<b>S. Angriman</b>, A. Ferran, F. Zapata, P. J. Cobelli, M. Obligado & P. D. Mininni",
+    info: "J. Fluid Mech., Volume 948, A30 (2022)",
+    url: "https://doi.org/10.1017/jfm.2022.713",
+    fulltext: "https://arxiv.org/pdf/2203.10195",
+    abstract: "We study the three-dimensional clustering of velocity stagnation points, of nulls of the vorticity and of the Lagrangian acceleration, and of inertial particles in turbulent flows at fixed Reynolds numbers, but under different large-scale flow geometries. To this end, we combine direct numerical simulations of homogeneous and isotropic turbulence and of the Taylor–Green flow, with particle tracking velocimetry in a von Kármán experiment. While flows have different topologies (as nulls cluster differently), particles behave similarly in all cases, indicating that Taylor-scale neutrally buoyant particles cluster as inertial particles."
+}
+
+# 04
+  - {
+    name: "Multitime structure functions and the Lagrangian scaling of turbulence",
+    authors: "<b>S. Angriman</b>, P. D. Mininni & P. J. Cobelli",
+    info: "Phys. Rev. Fluids 7, 064603 (2022)",
+    url: "https://doi.org/10.1103/PhysRevFluids.7.064603",
+    fulltext: "https://arxiv.org/pdf/2201.05251",
+    abstract: "We define and characterize multitime Lagrangian structure functions using data stemming from two swirling flows with mean flow and turbulent fluctuations: a Taylor-Green numerical flow and a von Kármán laboratory experiment. Data is obtained from numerical integration of tracers in the former case and from three-dimensional particle tracking velocimetry measurements in the latter. Multitime statistics are shown to decrease the contamination of large scales in the inertial range scaling. A timescale at which contamination from the mean flow becomes dominant is identified, with this scale separating two different Lagrangian scaling ranges. The results from the multitime structure functions also indicate that Lagrangian intermittency is not a result of large-scale flow effects. The multitime Lagrangian structure functions can be used without prior knowledge of the forcing mechanisms or boundary conditions, allowing their application in different flow geometries."
+}
+
+# 03
+  - {
+    name: "Characterising single and two-phase homogeneous isotropic turbulence with stagnation points", 
+    authors: "A. Ferran, <b>S. Angriman</b>, P. D. Mininni & M. Obligado",
+    info: "Dynamics, 2(2), 63-72 (2022)",
+    url: "https://doi.org/10.3390/dynamics2020004",
+    fulltext: "../publications/03.pdf",
+    abstract: "It has been shown that, for dense, sub-Kolmogorov particles advected in a turbulent flow, carrier phase properties can be reconstructed from the particles’ velocity field. For that, the instantaneous particles’ velocity field can be used to detect the stagnation points of the carrier phase. The Rice theorem can therefore be used, implying that the Taylor length is proportional to the mean distance between such stagnation points. As this model has been only tested for one-dimensional time signals, this work discusses if it can be applied to two-phase, three-dimensional flows. We use direct numerical simulations with turbulent Reynolds numbers Re_lamb between 40 and 520 and study particle-laden flows with a Stokes number of St=0.5. We confirm that for the carrier phase, the Taylor length is proportional to the mean distance between stagnation points with a proportionality coefficient that depends weakly on Re_lamb. Then, we propose an interpolation scheme to reconstruct the stagnation points of the particles’ velocity field. The results indicate that the Rice theorem cannot be applied in practice to two-phase three-dimensional turbulent flows, as the clustering of stagnation points forms very dense structures that require a very large number of particles to accurately sample the flow stagnation points."
+}
+
+# 02
+  - {
+    name: "Broken mirror symmetry of tracer's trajectories in turbulence", 
+    authors: "<b>S. Angriman</b>, P. J. Cobelli, M. Bourgoin, S. G. Huisman, R. Volk & P. D. Mininni",
+    info: "Phys. Rev. Lett. 127, 254502 (2021)",
+    url: "https://arxiv.org/pdf/2111.07025",
+    fulltext: "../publications/1501.07274.pdf",
+    abstract: "Topological properties of physical systems play a crucial role in our understanding of nature, yet their experimental determination remains elusive. We show that the mean helicity, a dynamical invariant in ideal flows, quantitatively affects trajectories of fluid elements: the linking number of Lagrangian trajectories depends on the mean helicity. Thus, a global topological invariant and a topological number of fluid trajectories become related, and we provide an empirical expression linking them. The relation shows the existence of long-term memory in the trajectories: the links can be made of the trajectory up to a given time, with particles positions in the past. This property also allows experimental measurements of mean helicity."
+}
+
+# 01
+  - {
+    name: "Velocity and acceleration statistics in particle-laden turbulent swirling flows", 
+    authors: "<b>S. Angriman</b>, P. D. Mininni & P. J. Cobelli",
+    info: "Phys. Rev. Fluids 5, 064605 (2020)",
+    url: "https://doi.org/10.1103/PhysRevFluids.5.064605",
+    fulltext: "https://arxiv.org/pdf/1912.07581",
+    abstract: "We present a comparison of different particles' velocity and acceleration statistics in two paradigmatic turbulent swirling flows: the von Kármán flow in a laboratory experiment and the Taylor-Green flow in direct numerical simulations. Tracers, as well as inertial particles, are considered. Results indicate that, in spite of the differences in boundary conditions and forcing mechanisms, scaling properties and statistical quantities reveal similarities between both flows, pointing to new methods to calibrate and compare models for particles dynamics in numerical simulations, as well as to characterize the dynamics of particles in simulations and experiments. The comparison also allows us to identify contributions of the mean flow to the inertial-range scaling of the particles' velocity structure functions."
+}

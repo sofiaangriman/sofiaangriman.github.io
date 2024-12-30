@@ -1,0 +1,36 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold pb-3 mb-2 text-center">Publications</h3>
+    <div class="my-4 mb-5"> 
+      {{ content }}
+    </div>
+    {% for item in site.data.publications.index %}
+      {% assign number = forloop.length | minus: forloop.index0 %}
+      <div class="row mb-3"> <!-- New row for each publication -->
+        <div class="col-md-1">
+          <h5><b>{{ number }}.</b></h5>
+        </div>
+        <div class="col-md-11">
+          <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+          <p>{{ item.authors }} &mdash; {{ item.info }}</p>
+          <p>
+            <span class="d-inline-block me-3">
+              [<a class="btn btn-link p-0" data-bs-toggle="collapse" href="#abstract-{{ forloop.index }}" role="button" aria-expanded="false" aria-controls="abstract-{{ forloop.index }}">
+                See Abstract
+              </a>]
+            </span>
+            <span class="d-inline-block">
+              [<a href="{{ item.fulltext }}">Full text</a>]
+            </span>
+          </p>
+          <div class="collapse" id="abstract-{{ forloop.index }}">
+            <div class="card card-body">
+              {{ item.abstract }}
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
