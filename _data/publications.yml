@@ -75,8 +75,8 @@ index:
     name: "Broken mirror symmetry of tracer's trajectories in turbulence", 
     authors: "<b>S. Angriman</b>, P. J. Cobelli, M. Bourgoin, S. G. Huisman, R. Volk & P. D. Mininni",
     info: "Phys. Rev. Lett. 127, 254502 (2021)",
-    url: "https://arxiv.org/pdf/2111.07025",
-    fulltext: "../publications/1501.07274.pdf",
+    url: "https://doi.org/10.1103/PhysRevLett.127.254502",
+    fulltext: "https://arxiv.org/pdf/2111.07025",
     abstract: "Topological properties of physical systems play a crucial role in our understanding of nature, yet their experimental determination remains elusive. We show that the mean helicity, a dynamical invariant in ideal flows, quantitatively affects trajectories of fluid elements: the linking number of Lagrangian trajectories depends on the mean helicity. Thus, a global topological invariant and a topological number of fluid trajectories become related, and we provide an empirical expression linking them. The relation shows the existence of long-term memory in the trajectories: the links can be made of the trajectory up to a given time, with particles positions in the past. This property also allows experimental measurements of mean helicity."
 }
 
