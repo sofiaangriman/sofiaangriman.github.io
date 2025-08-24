@@ -1,13 +1,13 @@
 index:
 
 # 10
-- {
-  name: "[[pre-print]] Collective effects of neighbouring melting ice objects",
-  authors: "<b>S. Angriman</b>, D. Lohse, R. Verzicco, & Sander G. Huisman",
-  info: "Submitted to Journal of Fluid Mechanics",
-  url: "https://arxiv.org/abs/2506.16926",
-  fulltext: "https://arxiv.org/pdf/2506.16926",
-  abstract: "We present a study on the melting dynamics of neighbouring ice bodies by means of idealised simulations, focusing on collective effects. Two vertically aligned, square-shaped, and equally sized ice objects (size on the order of centimetres) are immersed in quiescent fresh water at a temperature of 20 degrees Celsius. By performing two-dimensional direct numerical simulations, and using the phase-field method to model the phase change, the collective melting of these objects is studied. While the melting of the upper object is mostly unaffected, the melting time and the morphology of the lower ice body strongly depends on the initial inter-object distance. It moreover displays a non-monotonic dependence on the initial object size. We show that this behaviour results from a non-trivial competition between layering of cold fluid, which lowers the heat transfer, and convective flows, which favour mixing and heat transfer."
+  - {
+    name: "[pre-print] Collective effects of neighbouring melting ice objects", 
+    authors: "<b>S. Angriman</b>, D. Lohse, R. Verzicco, & Sander G. Huisman",
+    info: "Submitted to Journal of Fluid Mechanics",
+    url: "https://arxiv.org/abs/2506.16926",
+    fulltext: "https://arxiv.org/pdf/2506.16926",
+    abstract: "We present a study on the melting dynamics of neighbouring ice bodies by means of idealised simulations, focusing on collective effects. Two vertically aligned, square-shaped, and equally sized ice objects (size on the order of centimetres) are immersed in quiescent fresh water at a temperature of 20 degrees Celsius. By performing two-dimensional direct numerical simulations, and using the phase-field method to model the phase change, the collective melting of these objects is studied. While the melting of the upper object is mostly unaffected, the melting time and the morphology of the lower ice body strongly depends on the initial inter-object distance. It moreover displays a non-monotonic dependence on the initial object size. We show that this behaviour results from a non-trivial competition between layering of cold fluid, which lowers the heat transfer, and convective flows, which favour mixing and heat transfer."
 }
 
 # 09
