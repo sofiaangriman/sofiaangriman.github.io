@@ -22,6 +22,22 @@ layout: default
       </div>
     </div>
 
+    <div class="row g-5 mb-5">
+      <div class="col-md-2">
+        <h4>Professional experience</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.supervision %}
+	  <p class="mb-1">{{ section.date }} &mdash; <b>{{ section.title }}</b> </p>
+          <p class="mt-0 mb-1">{{ section.description | markdownify }}</p>
+	  <!-- Conditionally add the horizontal line except after the last section -->
+          {% unless forloop.last %}
+	  <hr class="my-3">
+	  {% endunless %}
+        {% endfor %}
+      </div>
+    </div>
+
 	<div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Education</h4>
