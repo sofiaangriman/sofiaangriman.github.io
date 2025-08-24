@@ -1,9 +1,19 @@
 index:
 
+# 10
+- {
+  name: "[pre-print] Collective effects of neighbouring melting ice objects",
+  authors: "<b>S. Angriman</b>, D. Lohse, R. Verzicco, & Sander G. Huisman",
+  info: "Submitted to Journal of Fluid Mechanics",
+  url: "https://arxiv.org/abs/2506.16926",
+  fulltext: "https://arxiv.org/pdf/2506.16926",
+  abstract: "We present a study on the melting dynamics of neighbouring ice bodies by means of idealised simulations, focusing on collective effects. Two vertically aligned, square-shaped, and equally sized ice objects (size on the order of centimetres) are immersed in quiescent fresh water at a temperature of 20 degrees Celsius. By performing two-dimensional direct numerical simulations, and using the phase-field method to model the phase change, the collective melting of these objects is studied. While the melting of the upper object is mostly unaffected, the melting time and the morphology of the lower ice body strongly depends on the initial inter-object distance. It moreover displays a non-monotonic dependence on the initial object size. We show that this behaviour results from a non-trivial competition between layering of cold fluid, which lowers the heat transfer, and convective flows, which favour mixing and heat transfer."
+}
+
 # 09
   - {
     name: "Active grid turbulence anomalies through the lens of physics informed neural networks", 
-    authors: "<b>S. Angriman</b>, S. E. Smith, P. Clark di Leoni, P. J. Cobelli, P. D. Mininni & M. Obligado",
+    authors: "<b>S. Angriman</b>, S. E. Smith, P. Clark di Leoni, P. J. Cobelli, P. D. Mininni, & M. Obligado",
     info: "Results in Engineering 24, 103265 (2024)",
     url: "https://doi.org/10.1016/j.rineng.2024.103265",
     fulltext: "https://arxiv.org/pdf/2409.03919",
@@ -13,7 +23,7 @@ index:
 # 08
   - {
     name: "Turbulence Unsteadiness Drives Extreme Clustering",
-    authors: "F. Zapata, <b>S. Angriman</b>, A. Ferran, P. J. Cobelli, M. Obligado & P. D. Mininni",
+    authors: "F. Zapata, <b>S. Angriman</b>, A. Ferran, P. J. Cobelli, M. Obligado, & P. D. Mininni",
     info: "Phys. Rev. Lett. 132, 104005 (2024)",
     url: "https://doi.org/10.1103/PhysRevLett.132.104005",
     fulltext: "https://arxiv.org/pdf/2402.15015",
@@ -23,7 +33,7 @@ index:
 # 07
   - {
     name: "Assimilation of statistical data into turbulent flows using physics-informed neural networks",
-    authors: "<b>S. Angriman</b>, P. J. Cobelli, P. D. Mininni, M. Obligado & P. Clark di Leoni", 
+    authors: "<b>S. Angriman</b>, P. J. Cobelli, P. D. Mininni, M. Obligado, & P. Clark di Leoni", 
     info: "Eur. Phys. J. E 46, 13 (2023)",
     url: "https://doi.org/10.1140/epje/s10189-023-00268-9",
     fulltext: "../publications/07.pdf",
@@ -43,7 +53,7 @@ index:
 # 05
   - {
     name: "Clustering in laboratory and numerical turbulent swirling flows",
-    authors: "<b>S. Angriman</b>, A. Ferran, F. Zapata, P. J. Cobelli, M. Obligado & P. D. Mininni",
+    authors: "<b>S. Angriman</b>, A. Ferran, F. Zapata, P. J. Cobelli, M. Obligado, & P. D. Mininni",
     info: "J. Fluid Mech., Volume 948, A30 (2022)",
     url: "https://doi.org/10.1017/jfm.2022.713",
     fulltext: "https://arxiv.org/pdf/2203.10195",
@@ -53,7 +63,7 @@ index:
 # 04
   - {
     name: "Multitime structure functions and the Lagrangian scaling of turbulence",
-    authors: "<b>S. Angriman</b>, P. D. Mininni & P. J. Cobelli",
+    authors: "<b>S. Angriman</b>, P. D. Mininni, & P. J. Cobelli",
     info: "Phys. Rev. Fluids 7, 064603 (2022)",
     url: "https://doi.org/10.1103/PhysRevFluids.7.064603",
     fulltext: "https://arxiv.org/pdf/2201.05251",
@@ -63,7 +73,7 @@ index:
 # 03
   - {
     name: "Characterising single and two-phase homogeneous isotropic turbulence with stagnation points", 
-    authors: "A. Ferran, <b>S. Angriman</b>, P. D. Mininni & M. Obligado",
+    authors: "A. Ferran, <b>S. Angriman</b>, P. D. Mininni, & M. Obligado",
     info: "Dynamics, 2(2), 63-72 (2022)",
     url: "https://doi.org/10.3390/dynamics2020004",
     fulltext: "../publications/03.pdf",
@@ -73,7 +83,7 @@ index:
 # 02
   - {
     name: "Broken mirror symmetry of tracer's trajectories in turbulence", 
-    authors: "<b>S. Angriman</b>, P. J. Cobelli, M. Bourgoin, S. G. Huisman, R. Volk & P. D. Mininni",
+    authors: "<b>S. Angriman</b>, P. J. Cobelli, M. Bourgoin, S. G. Huisman, R. Volk, & P. D. Mininni",
     info: "Phys. Rev. Lett. 127, 254502 (2021)",
     url: "https://doi.org/10.1103/PhysRevLett.127.254502",
     fulltext: "https://arxiv.org/pdf/2111.07025",
@@ -83,7 +93,7 @@ index:
 # 01
   - {
     name: "Velocity and acceleration statistics in particle-laden turbulent swirling flows", 
-    authors: "<b>S. Angriman</b>, P. D. Mininni & P. J. Cobelli",
+    authors: "<b>S. Angriman</b>, P. D. Mininni, & P. J. Cobelli",
     info: "Phys. Rev. Fluids 5, 064605 (2020)",
     url: "https://doi.org/10.1103/PhysRevFluids.5.064605",
     fulltext: "https://arxiv.org/pdf/1912.07581",
