@@ -4,10 +4,8 @@ title: "Contact"
 ---
 
 The best way of reaching out to me is by email<br />
-<center> s [dot] angriman [at] utwente [dot] nl</center><br />
-Otherwise, I am currently located at the Physics of Fluids group
+<center> sofia [dot] angriman [at] univ-cotedazur [dot] fr</center><br />
+Otherwise, I am currently located at the Institut de Physique de Nice (Université Côte d'Azur & CNRS)
 <ul>
-  <li>Address: Drienerlolaan 5, 7522NB, Enschede, The Netherlands</li>
-  <li>Office: Meander 246a (ME246a) </li>
-  <li>Tel. number: +31 (0) 53 489 3649 </li>
+  <li>Address: 17 rue Julien Lauprêtre, 06200, Nice, France</li>
 </ul> 
