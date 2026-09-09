@@ -18,4 +18,4 @@ My work focused on Lagrangian measurements of particle trajectories to investiga
 I am part of the editorial board of [Physical Review Fluids](https://journals.aps.org/prfluids/staff) as an Early Career Board Member, where I am responsible for outreach activities of the journal on social media.\
 I am also involved in the organising committee of the monthly [PRFluids Journal Club](https://journals.aps.org/journal-club), along with Daphné Lemasquerier (St. Andrews), Lin Fu (HKUST), and Georgios Rigas (Imperial). We organise monthly live discussions with authors about recent publications in the journal.\
 \
-<sub>Last updated: April 2026</sub>
+<sub>Last updated: September 2026</sub>
