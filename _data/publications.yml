@@ -1,5 +1,25 @@
 index:
 
+# 12
+  - {
+    name: "[pre-print] Evolution of inertial particle clustering in decaying turbulence", 
+    authors: "M. Obligado & <b>S. Angriman</b>",
+    info: "Submitted.",
+    url: "https://arxiv.org/abs/2608.30545",
+    fulltext: "https://arxiv.org/pdf/2608.30545",
+    abstract: " Inertial particle dynamics in turbulence are commonly interpreted in terms of the instantaneous particle Stokes number, as supported by studies in statistically stationary homogeneous isotropic turbulence. But in freely decaying turbulence the Kolmogorov time scale evolves continuously, causing the effective Stokes number, St, to vary even though particle properties remain unchanged. Whether preferential concentration remains uniquely determined by this instantaneous St or depends on the flow's previous evolution has remained largely unexplored. We investigate inertial-particle clustering during the decay of homogeneous isotropic turbulence using direct numerical simulations of heavy point particles in the one-way coupling limit. Clustering is quantified through 3D Voronoï tessellations for populations evolving either from statistically stationary clustered states or initially random distributions. We consider both conventionally forced homogeneous isotropic turbulence and velocity fields reconstructed using physics-informed neural networks. We show that preferential concentration cannot be described solely by the instantaneous St. While particle slip velocity follows the classical steady-state dependence on the instantaneous St, clustering statistics retain a measurable history dependence throughout decay. Existing stationary scaling laws remain applicable to cluster-size evolution, but only through history-dependent prefactors. Particle distributions evolving from different initial conditions rapidly converge towards similar large-scale spatial organisation, indicating that the carrier flow determines the geometry of preferential concentration while finer clustering statistics preserve imprints of the previous evolution. These results demonstrate that preferential concentration in non-stationary turbulence is governed jointly by the instantaneous flow state and its initial state. "
+}
+
+# 11
+  - {
+    name: "[pre-print] Ice melting in an oscillatory flow", 
+    authors: "<b>S. Angriman</b>, T. de Buck, R. Verzicco, & Sander G. Huisman",
+    info: "Submitted to Phys. Rev. Fluids",
+    url: "https://arxiv.org/abs/2608.24875",
+    fulltext: "https://arxiv.org/pdf/2608.24875",
+    abstract: "We investigate the melting dynamics of an ice disk subjected to an external oscillatory flow using two-dimensional direct numerical simulations, in the absence of buoyancy, varying the flow amplitude and its oscillation frequency. We identify two distinct regimes governed by the interplay between advection and diffusion within the boundary layer. For slow oscillations, the melting process is well described by an effective steady flow, where a description based on classical forced convection is applicable. For fast oscillations the melting time increases significantly and approaches the diffusion limit regime, as a result of the oscillatory flow being unable to renew the fluid within the oscillating boundary layer, causing cold meltwater to accumulate near the interface and reducing heat transfer. "
+}
+
 # 10
   - {
     name: "Collective effects of neighbouring melting ice objects", 
